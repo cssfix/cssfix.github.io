@@ -1,3 +1,3 @@
 # cssfix.github.io
 
-# why use reset or normalize when you can fix on your own!
+### Why use Reset or Normalize when you can cssfix!
